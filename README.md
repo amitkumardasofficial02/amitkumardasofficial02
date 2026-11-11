@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Amit Das 👋
+
+M.Sc. Geoinformatics Student | Aspiring GIS Developer
+
+I'm pursuing my Master's in Geoinformatics at Symbiosis Institute of Geoinformatics, Pune.
+
+I'm passionate about combining GIS, programming and geospatial data science to develop practical geospatial solutions.
 
 <!--
 **amitkumardasofficial02/amitkumardasofficial02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
